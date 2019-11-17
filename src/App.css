@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.selected {
+  border-bottom: 4px solid red;
+}
+
+.link {
+  text-decoration: none;
+}
